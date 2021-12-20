@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradientorange"
+    tools:context=".BerandaActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <RelativeLayout
+                android:id="@+id/rectboox1"
+                android:layout_width="160dp"
+                android:layout_height="136dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginBottom="70dp"
+                android:background="@drawable/retcboox"
+                android:textAlignment="center">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/ic_twotone_local_phone_24"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rectboox2"
+                android:layout_width="160dp"
+                android:layout_height="136dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginBottom="70dp"
+                android:layout_toEndOf="@+id/rectboox1"
+                android:background="@drawable/retcboox"
+                android:textAlignment="center">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/ic_baseline_people_24"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rectboox3"
+                android:layout_width="160dp"
+                android:layout_height="136dp"
+                android:layout_marginTop="265dp"
+                android:layout_marginBottom="70dp"
+                android:layout_toEndOf="@+id/rectboox1"
+                android:background="@drawable/retcboox"
+                android:textAlignment="center">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/ic_twotone_home_24"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rectboox4"
+                android:layout_width="160dp"
+                android:layout_height="136dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="265dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginBottom="70dp"
+                android:background="@drawable/retcboox"
+                android:textAlignment="center">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/ic_twotone_location_on_24"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rectboox5"
+                android:layout_width="160dp"
+                android:layout_height="136dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="430dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginBottom="70dp"
+                android:background="@drawable/retcboox"
+                android:textAlignment="center">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/ic_twotone_email_24"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rectboox6"
+                android:layout_width="160dp"
+                android:layout_height="136dp"
+                android:layout_marginTop="430dp"
+                android:layout_marginBottom="70dp"
+                android:layout_toEndOf="@+id/rectboox1"
+                android:background="@drawable/retcboox"
+                android:textAlignment="center">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/ic_twotone_local_airport_24"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="575dp">
+
+                <Button
+                    android:id="@+id/btn_det_back"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="30dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="30dp"
+                    android:backgroundTint="@color/orange"
+                    android:onClick="masuk"
+                    android:padding="10dp"
+                    android:text="Keluar"
+                    android:textAllCaps="false"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.439"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintVertical_bias="0.728"
+                    app:layout_constraintWidth_percent=".8"/>
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/tx_daftar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="29dp"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginEnd="65dp"
+                    android:background="@drawable/retcboox"
+                    android:fontFamily="@font/poppins_semibold"
+                    android:text="BERANDA"
+                    android:textAlignment="center"
+                    android:textColor="@color/orange"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent" />
+
+                <TextView
+                    android:id="@+id/tx_daftarr"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginStart="355dp"
+                    android:layout_marginTop="30dp"
+                    android:background="@drawable/akunberanda"
+                    android:drawableLeft="@drawable/ic_twotone_person_24"
+                    android:fontFamily="@font/poppins_semibold"
+                    android:onClick="detail"
+                    android:textAlignment="center"
+                    android:textColor="@color/orange"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent" />
+
+            </RelativeLayout>
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>
