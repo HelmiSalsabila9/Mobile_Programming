@@ -30,7 +30,9 @@ UTS-5-MOBILE PROGRAMMING
   
 <h1>About</h1>
 
-[Instagram](https://www.instagram.com/hels.ae/)</li>
+[Instagram](https://www.instagram.com/hels.ae/)
 
-[Youtube](https://www.youtube.com/channel/UCV3nFQJw1bf03Ds9Pf5JcxA)</li>
+[LinkIn](https://www.linkedin.com/in/helmisalsabila9/)
+
+[Youtube](https://www.youtube.com/channel/UCV3nFQJw1bf03Ds9Pf5JcxA)
 
