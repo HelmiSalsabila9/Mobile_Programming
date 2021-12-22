@@ -1,7 +1,7 @@
 # Mobile_Programming
 Membuat Login & Register menggunakan SharedPreference
 
-<h2><b><u>UTS-5-MOBILE PROGRAMMING</u></b></h2>
+<h3><b>UTS-5-MOBILE PROGRAMMING</b></h3>
 <ul>
   <li><h3><b>SplashActivity</b></h3></li>
 
