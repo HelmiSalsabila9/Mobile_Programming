@@ -3,6 +3,8 @@ Membuat Login & Register menggunakan SharedPreference
 
 UTS-5-MOBILE PROGRAMMING
 
+<ol><li>1. List satu</li><li>2. List dua</li></ol>
+
 <ol>
   <li>SplashActivity</li>
 
