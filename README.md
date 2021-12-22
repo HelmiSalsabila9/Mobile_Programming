@@ -26,10 +26,10 @@ UTS-5-MOBILE PROGRAMMING
 ![Detail](https://user-images.githubusercontent.com/61817589/147021469-ae0e110f-2f5b-4288-8399-daa584e7004b.png)
 
 </ul>
----
+<hr>
   
   <h1>About</h1>
-
-[Instagram](https://www.instagram.com/hels.ae/)
-
-[LinkIn](https://www.linkedin.com/in/helmisalsabila9/)
+<ul>
+  <li>[Instagram](https://www.instagram.com/hels.ae/)</li>
+  <li>[LinkIn](https://www.linkedin.com/in/helmisalsabila9/)</li>
+</ul>
