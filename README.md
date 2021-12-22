@@ -23,3 +23,7 @@ UTS-5-MOBILE PROGRAMMING
 5. DetailActivity
 
 ![Detail](https://user-images.githubusercontent.com/61817589/147021469-ae0e110f-2f5b-4288-8399-daa584e7004b.png)
+
+
+About:
+[Instagram](https://www.instagram.com/hels.ae/)
