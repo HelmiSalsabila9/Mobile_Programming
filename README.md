@@ -28,5 +28,5 @@ UTS-5-MOBILE PROGRAMMING
 </ul>
 <hr>
   
-  <h1>About</h1>
-  [Instagram](https://www.instagram.com/hels.ae/)
+<h1>About</h1>
+[Instagram](https://www.instagram.com/hels.ae/)
