@@ -5,6 +5,7 @@ UTS-5-MOBILE PROGRAMMING
 
 
 1. SplashActivity
+
 ![Splash](https://user-images.githubusercontent.com/61817589/147021317-6ca748b1-d925-4f4e-a39a-c17cffbf856d.png) 
 
 2. LoginActivity
