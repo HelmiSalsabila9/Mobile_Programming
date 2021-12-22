@@ -5,7 +5,7 @@ UTS-5-MOBILE PROGRAMMING
 
 
 <ul>
-  <li>SplashActivity</li>
+  <li><h3><b>SplashActivity</b></h3></li>
 
 ![Splash](https://user-images.githubusercontent.com/61817589/147021317-6ca748b1-d925-4f4e-a39a-c17cffbf856d.png) 
 
@@ -30,6 +30,6 @@ UTS-5-MOBILE PROGRAMMING
   
   <h1>About</h1>
 <ul>
-  <li> [Instagram](https://www.instagram.com/hels.ae/) </li>
+  [Instagram](https://www.instagram.com/hels.ae/)
   <li> [LinkIn](https://www.linkedin.com/in/helmisalsabila9/) </li>
 </ul>
