@@ -3,9 +3,8 @@ Membuat Login & Register menggunakan SharedPreference
 
 UTS-5-MOBILE PROGRAMMING
 
-<ol><li>1. List satu</li><li>2. List dua</li></ol>
 
-<ol>
+<ul>
   <li>SplashActivity</li>
 
 ![Splash](https://user-images.githubusercontent.com/61817589/147021317-6ca748b1-d925-4f4e-a39a-c17cffbf856d.png) 
@@ -26,7 +25,7 @@ UTS-5-MOBILE PROGRAMMING
 
 ![Detail](https://user-images.githubusercontent.com/61817589/147021469-ae0e110f-2f5b-4288-8399-daa584e7004b.png)
 
-</ol>
+</ul>
 ---
   
   <h1>About</h1>
