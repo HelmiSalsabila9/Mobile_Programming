@@ -29,10 +29,8 @@ UTS-5-MOBILE PROGRAMMING
 <hr>
   
 <h1>About</h1>
-<ul>
-  
-  <li>[Instagram](https://www.instagram.com/hels.ae/)</li>
 
-  <li>[Youtube](https://www.youtube.com/channel/UCV3nFQJw1bf03Ds9Pf5JcxA)</li>
-  
-</ul>
+[Instagram](https://www.instagram.com/hels.ae/)</li>
+
+[Youtube](https://www.youtube.com/channel/UCV3nFQJw1bf03Ds9Pf5JcxA)</li>
+
